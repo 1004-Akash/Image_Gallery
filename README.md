@@ -22,13 +22,23 @@ An interactive **Image Gallery App** built using **React.js** and **Tailwind CSS
 ## 📂 **Project Structure**  
 
 ```
-/src  
-  ├── components          // Reusable UI components  
-  ├── pages               // Main app pages  
-  ├── assets              // Static assets (if any)  
-  ├── App.js              // Main application file  
-  ├── index.js            // Entry point  
-  └── styles.css          // Custom styles (if any)  
+/src
+  ├── assets              // Static assets
+  │   ├── main.css        // General styles
+  │   ├── tailwind.css    // Tailwind CSS configuration
+  ├── components          // Reusable UI components
+  │   ├── ImageCard.js    // Component for displaying individual images
+  │   ├── ImageSearch.js  // Component for search functionality
+  ├── App.js              // Main application file
+  ├── index.js            // Entry point for the React app
+  ├── README.md           // Project documentation
+  ├── tailwind.js         // Tailwind configuration (if used)
+  ├── .env                // Environment variables
+  ├── .gitignore          // Git ignore file
+  ├── package-lock.json   // Dependency lock file
+  ├── package.json        // Project dependencies and scripts
+  ├── postcss.config.js   // PostCSS configuration
+
 ```
 
 ---
