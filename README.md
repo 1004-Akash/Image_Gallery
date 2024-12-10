@@ -1,70 +1,95 @@
-# Getting Started with Create React App
+# 📸 Image Gallery App  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An interactive **Image Gallery App** built using **React.js** and **Tailwind CSS**, integrated with the **Pixabay API** to fetch and display high-quality images based on user search queries.  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 **Live Demo**  
+[Image Gallery App](https://image-gallery-9todfbi0g-akash-elayarajas-projects.vercel.app/)  
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🖥️ **Features**  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+✅ **Dynamic Image Search:** Fetches stunning images from the Pixabay API.  
+✅ **Responsive Design:** Works seamlessly across devices.  
+✅ **Clean & Modern UI:** Designed with Tailwind CSS for an elegant user experience.  
+✅ **Fast & Scalable:** Built with React.js for smooth performance.  
+✅ **Deployed on Vercel:** Accessible from anywhere.  
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📂 **Project Structure**  
 
-### `npm run build`
+```
+/src  
+  ├── components          // Reusable UI components  
+  ├── pages               // Main app pages  
+  ├── assets              // Static assets (if any)  
+  ├── App.js              // Main application file  
+  ├── index.js            // Entry point  
+  └── styles.css          // Custom styles (if any)  
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠️ **Tech Stack**  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Frontend:** React.js, Tailwind CSS  
+- **API:** Pixabay API  
+- **Deployment:** Vercel  
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ⚙️ **Installation and Setup**  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Clone the repository:**  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   ```bash
+   git clone https://github.com/1004-Akash/Image_Gallery.git
+   cd Image_Gallery
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2. **Install dependencies:**  
 
-## Learn More
+   ```bash
+   npm install
+   ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3. **Run the app locally:**  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+   ```bash
+   npm start
+   ```
 
-### Code Splitting
+4. **Open in browser:**  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+   ```
+   http://localhost:3000
+   ```
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🏆 **Contributing**  
 
-### Making a Progressive Web App
+Contributions are welcome! Feel free to open issues or submit pull requests.  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## 📄 **License**  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 💬 **Feedback**  
 
-### `npm run build` fails to minify
+If you have any suggestions or feedback, please reach out or create an issue on GitHub!  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+### **Created with 💻 by [Akash](https://github.com/1004-Akash)**  
+
+---
+
+**Happy Coding!** 🎨🚀
