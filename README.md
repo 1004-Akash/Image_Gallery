@@ -65,7 +65,7 @@ An interactive **Image Gallery App** built using **React.js** and **Tailwind CSS
 4. **Open in browser:**  
 
    ```
-   http://localhost:3000
+   https://image-gallery-9todfbi0g-akash-elayarajas-projects.vercel.app/
    ```
 
 ---
