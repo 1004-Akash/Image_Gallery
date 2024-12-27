@@ -5,7 +5,7 @@ An interactive **Image Gallery App** built using **React.js** and **Tailwind CSS
 ---
 
 ## 🚀 **Live Demo**  
-[Image Gallery App](https://image-gallery-9todfbi0g-akash-elayarajas-projects.vercel.app/)  
+[Image Gallery App](https://image-gallery-akash-elayarajas-projects.vercel.app/)  
 
 ---
 
